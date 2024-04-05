@@ -1,7 +1,8 @@
 # Awesome-Random-Walks:
-We present here a collection of work showcasing the power of Random Walk Theory. 
+We present here a collection of work showcasing the power of Random Walk Theory. The aim of this collection is to create a one-stop location where those who are looking to work with 
+random walks can find useful textbooks and papers.
 
-I am always looking for more resources, especially on the more applied side, so if you know of (or have written any), please email me on daniel.marris@bristol.ac.uk!
+I am always looking to expand the collection. My background is mainly theoretical so any papers, which focus on the application of random walks are especially welcome. So if you know of (or have written) any, please email me on daniel.marris@bristol.ac.uk and I will gladly include them. 
 
 ## Textbooks:
 Here is a list of some key textbooks that I have found to be useful.
