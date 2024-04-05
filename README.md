@@ -23,14 +23,14 @@ This is by no means an exhaustive list.
 <summary>Click for the BibTeX entries for the following references</summary>
 <br>
 @article{montroll1965random,<br>
-&nbsp;&nbsp; title={Random walks on lattices. II}, <br>
-&nbsp;&nbsp; author={Montroll, Elliott W and Weiss, George H},<br>
-&nbsp;&nbsp; journal={Journal of Mathematical Physics},<br>
-&nbsp;&nbsp; volume={6},<br>
-&nbsp;&nbsp; number={2},<br>
-&nbsp;&nbsp; pages={167--181},<br>
-&nbsp;&nbsp; year={1965},<br>
-&nbsp;&nbsp; publisher={American Institute of Physics}<br>
+&nbsp;&nbsp;&nbsp; title={Random walks on lattices. II}, <br>
+&nbsp;&nbsp;&nbsp; author={Montroll, Elliott W and Weiss, George H},<br>
+&nbsp;&nbsp;&nbsp; journal={Journal of Mathematical Physics},<br>
+&nbsp;&nbsp;&nbsp; volume={6},<br>
+&nbsp;&nbsp;&nbsp; number={2},<br>
+&nbsp;&nbsp;&nbsp; pages={167--181},<br>
+&nbsp;&nbsp;&nbsp; year={1965},<br>
+&nbsp;&nbsp;&nbsp; publisher={American Institute of Physics}<br>
 }
 
 @article{montroll1969random,
