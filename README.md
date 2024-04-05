@@ -13,7 +13,7 @@ Here is a list of some key textbooks that I have found to be useful.
 
 ### Application:
 + V. Méndez, D. Campos, and F. Bartumeus. *Stochastic foundations in movement ecology*. Springer-Verlag, Berlin, (2016).
-+ V. M. (Nitant) Kenkre, Memory Functions, Projection Operators, and the Defect Technique: Tools of the Trade for the Condensed Matter Physicist, Springer Nature Publishing, Heidelberg, (2021)
++ V. M. (Nitant) Kenkre, *Memory Functions, Projection Operators, and the Defect Technique: Tools of the Trade for the Condensed Matter Physicist*, Springer Nature Publishing, Heidelberg, (2021)
 
 ## Papers: 
 This is by no means an exhaustive list.
@@ -99,44 +99,95 @@ and Havlin, Shlomo and Stanley, H Eugene and Weiss, George H},<br>
 &nbsp;&nbsp;&nbsp; publisher={APS}<br>
 }
 
-@article{condamin2006exact,
-  
-  title={Exact expressions of mean first-passage times and splitting probabilities for random walks in bounded rectangular domains},
-  
-  author={Condamin, S and B{\'e}nichou, O},
-  
-  journal={The Journal of chemical physics},
-  
-  volume={124},
-  
-  number={20},
-  
-  pages={206103},
-  
-  year={2006},
-  
-  publisher={American Institute of Physics}
+@article{condamin2006exact,<br>
+&nbsp;&nbsp;&nbsp; title={Exact expressions of mean first-passage times and splitting probabilities for random walks in bounded rectangular domains},<br>
+&nbsp;&nbsp;&nbsp; author={Condamin, S and B{'e}nichou, O},<br>
+&nbsp;&nbsp;&nbsp; journal={The Journal of chemical physics},<br>
+&nbsp;&nbsp;&nbsp; volume={124},<br>
+&nbsp;&nbsp;&nbsp; number={20},<br>
+&nbsp;&nbsp;&nbsp; pages={206103},<br>
+&nbsp;&nbsp;&nbsp; year={2006},<br>
+&nbsp;&nbsp;&nbsp; publisher={American Institute of Physics}<br>
 }
 
-@article{kalay2012effects,
-
-  title={Effects of confinement on the statistics of encounter times: exact analytical results for random walks in a partitioned lattice},
-  
-  author={Kalay, Ziya},
-  
-  journal={Journal of Physics A: Mathematical and Theoretical},
-  
-  volume={45},
-  
-  number={21},
-  
-  pages={215001},
-  
-  year={2012},
-  
-  publisher={IOP Publishing}
+@article{kalay2012effects,<br>
+&nbsp;&nbsp;&nbsp; title={Effects of confinement on the statistics of encounter times: exact analytical results for random walks in a partitioned lattice},<br>       
+&nbsp;&nbsp;&nbsp; author={Kalay, Ziya},<br>
+&nbsp;&nbsp;&nbsp; journal={Journal of Physics A: Mathematical and Theoretical},<br>
+&nbsp;&nbsp;&nbsp; volume={45},<br>
+&nbsp;&nbsp;&nbsp; number={21},<br>
+&nbsp;&nbsp;&nbsp; pages={215001},<br>
+&nbsp;&nbsp;&nbsp; year={2012},<br>
+&nbsp;&nbsp;&nbsp; publisher={IOP Publishing}<br>
 }
 
+@article{godec2016first,<br>
+&nbsp;&nbsp;&nbsp; title={First passage time distribution in heterogeneity controlled kinetics: going beyond the mean first passage time},<br>
+&nbsp;&nbsp;&nbsp; author={Godec, Alja{♂{z}} and Metzler, Ralf},<br>
+&nbsp;&nbsp;&nbsp; journal={Scientific reports},<br>
+&nbsp;&nbsp;&nbsp; volume={6},<br>
+&nbsp;&nbsp;&nbsp; number={1},<br>
+&nbsp;&nbsp;&nbsp; pages={20349},<br>
+&nbsp;&nbsp;&nbsp; year={2016},<br>
+&nbsp;&nbsp;&nbsp; publisher={Nature Publishing Group UK London}<br>
+}
+
+@article{larralde2020first,<br>
+&nbsp;&nbsp;&nbsp; title={First-passage probabilities and mean number of sites visited by a persistent random walker in one-and two-dimensional lattices},<br>        
+&nbsp;&nbsp;&nbsp; author={Larralde, Hern{'a}n},<br>
+&nbsp;&nbsp;&nbsp; journal={Physical Review E},<br>
+&nbsp;&nbsp;&nbsp; volume={102},<br>
+&nbsp;&nbsp;&nbsp; number={6},<br>
+&nbsp;&nbsp;&nbsp; pages={062129},<br>
+&nbsp;&nbsp;&nbsp; year={2020},<br>
+&nbsp;&nbsp;&nbsp; publisher={APS}<br>
+}
+
+@article{giuggioli2020exact,<br>
+&nbsp;&nbsp;&nbsp; title={Exact spatiotemporal dynamics of confined lattice random 
+walks in arbitrary dimensions: A century after Smoluchowski and P{'o}lya},<br>     
+&nbsp;&nbsp;&nbsp; author={Giuggioli, Luca},<br>
+&nbsp;&nbsp;&nbsp; journal={Physical Review X},<br>
+&nbsp;&nbsp;&nbsp; volume={10},<br>
+&nbsp;&nbsp;&nbsp; number={2},<br>
+&nbsp;&nbsp;&nbsp; pages={021045},<br>
+&nbsp;&nbsp;&nbsp; year={2020},<br>
+&nbsp;&nbsp;&nbsp; publisher={APS}<br>
+}
+
+@article{giuggioli2022spatio,<br>
+&nbsp;&nbsp;&nbsp; title={Spatio-temporal dynamics of random transmission events: from information sharing to epidemic spread},<br>
+&nbsp;&nbsp;&nbsp; author={Giuggioli, Luca and Sarvaharman, Seeralan},<br>
+&nbsp;&nbsp;&nbsp; journal={Journal of Physics A: Mathematical and Theoretical},<br>
+&nbsp;&nbsp;&nbsp; volume={55},<br>
+&nbsp;&nbsp;&nbsp; number={37},<br>
+&nbsp;&nbsp;&nbsp; pages={375005},<br>
+&nbsp;&nbsp;&nbsp; year={2022},<br>
+&nbsp;&nbsp;&nbsp; publisher={IOP Publishing}<br>
+}
+
+@article{das2022discrete,<br>
+&nbsp;&nbsp;&nbsp; title={Discrete space-time resetting model: Application to first-passage and transmission statistics},<br>
+&nbsp;&nbsp;&nbsp; author={Das, Debraj and Giuggioli, Luca},<br>
+&nbsp;&nbsp;&nbsp; journal={Journal of Physics A: Mathematical and Theoretical},<br>
+&nbsp;&nbsp;&nbsp; volume={55},<br>
+&nbsp;&nbsp;&nbsp; number={42},<br>
+&nbsp;&nbsp;&nbsp; pages={424004},<br>
+&nbsp;&nbsp;&nbsp; year={2022},<br>
+&nbsp;&nbsp;&nbsp; publisher={IOP Publishing}<br>
+}
+
+
+@article{sarvaharman2023particle,<br>
+&nbsp;&nbsp;&nbsp; title={Particle-environment interactions in arbitrary dimensions: A unifying analytic framework to model diffusion with inert spatial heterogeneities},<br>
+&nbsp;&nbsp;&nbsp; author={Sarvaharman, Seeralan and Giuggioli, Luca},<br>
+&nbsp;&nbsp;&nbsp; journal={Physical Review Research},<br>
+&nbsp;&nbsp;&nbsp; volume={5},<br>
+&nbsp;&nbsp;&nbsp; number={4},<br>
+&nbsp;&nbsp;&nbsp; pages={043281},<br>
+&nbsp;&nbsp;&nbsp; year={2023},<br>
+&nbsp;&nbsp;&nbsp; publisher={APS}<br>
+}
 
 </details>
 
@@ -154,4 +205,5 @@ and Havlin, Shlomo and Stanley, H Eugene and Weiss, George H},<br>
 + H. Larralde, First-passage probabilities and mean number of sites visited by a persistent random walker in one-and two-dimensional lattices. *Phys. Rev. E*, 102(6),  (2020). 
 + L. Giuggioli, Exact spatiotemporal dynamics of confined lattice random walks in arbitrary dimensions: A century after Smoluchowski and Pólya. *Phys. Rev. X*, 10(2), (2020). 
 + L. Giuggioli, and S. Sarvaharman, Spatio-temporal dynamics of random transmission events: from information sharing to epidemic spread. *J. Phys. A: Math. Theor.*, 55(37), (2022).
++ D. Das, and L. Giuggioli, Discrete space-time resetting model: Application to first-passage and transmission statistics. *J. Phys. A: Math. Theor.*, 55(42), (2022).
 + S. Sarvaharman, and L. Giuggioli, Particle-environment interactions in arbitrary dimensions: A unifying analytic framework to model diffusion with inert spatial heterogeneities. *Phys. Rev. Res.*, 5(4) (2023).
