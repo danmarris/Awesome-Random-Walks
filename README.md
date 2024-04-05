@@ -23,91 +23,191 @@ This is by no means an exhaustive list.
 <summary>Click for the BibTeX entries for the following references</summary>
 <br>
 @article{montroll1965random,
+  
   title={Random walks on lattices. II},
+  
   author={Montroll, Elliott W and Weiss, George H},
+  
   journal={Journal of Mathematical Physics},
+  
   volume={6},
+  
   number={2},
+  
   pages={167--181},
+  
   year={1965},
+  
   publisher={American Institute of Physics}
+}
 
 @article{montroll1969random,
+  
   title={Random walks on lattices. III. Calculation of first-passage times with application to exciton trapping on photosynthetic units},
+  
   author={Montroll, Elliott W},
+  
   journal={Journal of Mathematical Physics},
+  
   volume={10},
+  
   number={4},
+  
   pages={753--765},
+  
   year={1969},
+  
   publisher={American Institute of Physics}
 }
 
 @article{landman1979stochastic,
+  
   title={Stochastic theory of multistate diffusion in perfect and defective systems. I. Mathematical formalism},
+  
   author={Landman, Uzi and Shlesinger, Michael F},
+  
   journal={Physical Review B},
+  
   volume={19},
+  
   number={12},
+  
   pages={6207},
+  
   year={1979},
+  
   publisher={APS}
 }
 
 @article{landman1979stochastic,
+  
   title={Stochastic theory of multistate diffusion in perfect and defective systems. II. Case studies},
+  
   author={Landman, Uzi and Shlesinger, Michael F},
+  
   journal={Physical Review B},
+  
   volume={19},
+  
   number={12},
+  
   pages={6220},
+  
   year={1979},
+  
   publisher={APS}
 }
 
 @article{kenkre1981effect,
+  
   title={Effect of transport coherence on trapping: Quantum-yield calculations for excitons in molecular crystals},
+  
   author={Kenkre, VM and Wong, YM},
+  
   journal={Physical Review B},
+  
   volume={23},
+  
   number={8},
+  
   pages={3748},
+  
   year={1981},
+  
   publisher={APS}
 }
 
 @article{zumofen1982energy,
+  
   title={Energy transfer as a random walk. II. Two-dimensional regular lattices},
+  
   author={Zumofen, Gert and Blumen, Alexander},
+  
   journal={The Journal of Chemical Physics},
+  
   volume={76},
+  
   number={7},
+  
   pages={3713--3731},
+  
   year={1982},
+  
   publisher={American Institute of Physics}
 }
 
 @article{ernst1988random,
+  
   title={Random walks with short memory},
+  
   author={Ernst, Matthieu H},
+  
   journal={Journal of statistical physics},
+  
   volume={53},
+  
   pages={191--201},
+  
   year={1988},
+  
   publisher={Springer}
 }
 
 @article{larralde1992number,
+  
   title={Number of distinct sites visited by N random walkers},
+  
   author={Larralde, Hernan and Trunfio, Paul and Havlin, Shlomo and Stanley, H Eugene and Weiss, George H},
+  
   journal={Physical Review A},
+  
   volume={45},
+  
   number={10},
+  
   pages={7128},
+  
   year={1992},
+  
   publisher={APS}
 }
 
+@article{condamin2006exact,
+  
+  title={Exact expressions of mean first-passage times and splitting probabilities for random walks in bounded rectangular domains},
+  
+  author={Condamin, S and B{\'e}nichou, O},
+  
+  journal={The Journal of chemical physics},
+  
+  volume={124},
+  
+  number={20},
+  
+  pages={206103},
+  
+  year={2006},
+  
+  publisher={American Institute of Physics}
+}
+
+@article{kalay2012effects,
+
+  title={Effects of confinement on the statistics of encounter times: exact analytical results for random walks in a partitioned lattice},
+  
+  author={Kalay, Ziya},
+  
+  journal={Journal of Physics A: Mathematical and Theoretical},
+  
+  volume={45},
+  
+  number={21},
+  
+  pages={215001},
+  
+  year={2012},
+  
+  publisher={IOP Publishing}
 }
 
 
