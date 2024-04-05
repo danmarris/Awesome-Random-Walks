@@ -23,7 +23,7 @@ This is by no means an exhaustive list.
 <summary>Click for the BibTeX entries for the following references</summary>
 <br>
 @article{montroll1965random,
-  title={Random walks on lattices. II},\\
+  title={Random walks on lattices. II},\n
   author={Montroll, Elliott W and Weiss, George H},
   journal={Journal of Mathematical Physics}
   volume={6},
