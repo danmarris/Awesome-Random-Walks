@@ -18,14 +18,14 @@ Here is a list of some key textbooks that I have found to be useful.
 ## Papers: 
 This is by no means an exhaustive list.
 
-+ E. W. Montroll, and G. H. Weiss, Random walks on lattices. II, *J. Math. Phys.*, 6(2), (1965).
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Click for the BibTeX entries for the following references</summary>
 <br>
 This is how you dropdown.
 </details>
 
++ E. W. Montroll, and G. H. Weiss, Random walks on lattices. II, *J. Math. Phys.*, 6(2), (1965).
 + E. W. Montroll, Random walks on lattices. III: Calculation of first‐passage times with application to exciton trapping on photosynthetic units, *J. Math. Phys.*, 10(4), (1969).
 + U. Landman, and M. F. Shlesinger, Stochastic theory of multistate diffusion in perfect and defective systems. I. Mathematical formalism, *Phys. Rev. B*, 19(12), (1979).
 + U. Landman, and M. F. Shlesinger, Stochastic theory of multistate diffusion in perfect and defective systems. I. Case Studies, *Phys. Rev. B*, 19(12), (1979).
