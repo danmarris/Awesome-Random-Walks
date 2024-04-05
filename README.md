@@ -1,5 +1,7 @@
 # Awesome-Random-Walks:
-We present here a collection of work showcasing the power of Random Walk Theory.
+We present here a collection of work showcasing the power of Random Walk Theory. 
+
+I am always looking for more papers, especially on the more applied side. 
 
 ## Textbooks:
 Here is a list of some key textbooks that I have found to be useful.
@@ -14,3 +16,9 @@ Here is a list of some key textbooks that I have found to be useful.
 ## Papers: 
 This is by no means an exhaustive list.
 
++ L. Giuggioli, [Exact spatiotemporal dynamics of confined lattice random walks in arbitrary dimensions: A century after Smoluchowski and Pólya](https://journals-aps-org.bris.idm.oclc.org/prx/abstract/10.1103/PhysRevX.10.021045). Physical Review X, 28;10(2):021045, (2020) 
++
++
++
++
++
