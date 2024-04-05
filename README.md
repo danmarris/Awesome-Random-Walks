@@ -22,15 +22,15 @@ This is by no means an exhaustive list.
 <details>
 <summary>Click for the BibTeX entries for the following references</summary>
 <br>
-@article{montroll1965random,\
-  title={Random walks on lattices. II}, \
-    author={Montroll, Elliott W and Weiss, George H},\
-    journal={Journal of Mathematical Physics},\
-    volume={6},\
-    number={2},\
-    pages={167--181},\
-    year={1965},\
-    publisher={American Institute of Physics}\
+@article{montroll1965random,<br>
+  title={Random walks on lattices. II}, <br>
+    author={Montroll, Elliott W and Weiss, George H},<br>
+    journal={Journal of Mathematical Physics},<br>
+    volume={6},<br>
+    number={2},<br>
+    pages={167--181},<br>
+    year={1965},<br>
+    publisher={American Institute of Physics}<br>
 }
 
 @article{montroll1969random,
