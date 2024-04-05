@@ -19,7 +19,7 @@ Here is a list of some key textbooks that I have found to be useful.
 This is by no means an exhaustive list.
 
 <details>
-<summary>Click for the BibTeX entries for the following references</summary>
+<summary>Click here for the BibTeX entries for the following references </summary>
 <br>
 @article{montroll1965random,<br>
 &nbsp;&nbsp;&nbsp; title={Random walks on lattices. II}, <br>
