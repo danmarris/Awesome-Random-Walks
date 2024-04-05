@@ -18,7 +18,6 @@ Here is a list of some key textbooks that I have found to be useful.
 ## Papers: 
 This is by no means an exhaustive list.
 
-
 <details>
 <summary>Click for the BibTeX entries for the following references</summary>
 <br>
