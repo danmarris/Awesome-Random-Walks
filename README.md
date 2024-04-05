@@ -9,7 +9,8 @@ Some key textbooks, I have found to be useful.
 + F. Spitzer, *Principles of Random Walk*, Springer, Berlin (1964).
 + B. D. Hughes, *Random Walks and Random Environments Volume 1: Random Walks*, Oxford University Press, Oxford (1995).
 ### Application:
-
++ V. Méndez, D. Campos, and F. Bartumeus. *Stochastic foundations in movement ecology*. Springer-Verlag, Berlin, (2016).
++ 
 ## Papers: 
 This is by no means an exhaustive list.
 
