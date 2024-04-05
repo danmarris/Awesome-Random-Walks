@@ -32,135 +32,71 @@ This is by no means an exhaustive list.
 &nbsp;&nbsp;&nbsp; publisher={American Institute of Physics}<br>
 }
 
-@article{montroll1969random,
-  
-  title={Random walks on lattices. III. Calculation of first-passage times with application to exciton trapping on photosynthetic units},
-  
-  author={Montroll, Elliott W},
-  
-  journal={Journal of Mathematical Physics},
-  
-  volume={10},
-  
-  number={4},
-  
-  pages={753--765},
-  
-  year={1969},
-  
-  publisher={American Institute of Physics}
+@article{montroll1969random,<br>
+&nbsp;&nbsp;&nbsp; title={Random walks on lattices. III. Calculation of first-passage times with application to exciton trapping on photosynthetic units},<br>
+&nbsp;&nbsp;&nbsp; author={Montroll, Elliott W},<br>
+&nbsp;&nbsp;&nbsp; journal={Journal of Mathematical Physics},<br>
+&nbsp;&nbsp;&nbsp; volume={10},<br>
+&nbsp;&nbsp;&nbsp; number={4},<br>
+&nbsp;&nbsp;&nbsp; pages={753--765},<br>
+&nbsp;&nbsp;&nbsp; year={1969},<br>
+&nbsp;&nbsp;&nbsp; publisher={American Institute of Physics} }<br>
 }
 
-@article{landman1979stochastic,
-  
-  title={Stochastic theory of multistate diffusion in perfect and defective systems. I. Mathematical formalism},
-  
-  author={Landman, Uzi and Shlesinger, Michael F},
-  
-  journal={Physical Review B},
-  
-  volume={19},
-  
-  number={12},
-  
-  pages={6207},
-  
-  year={1979},
-  
-  publisher={APS}
+@article{landman1979stochastic,<br>
+&nbsp;&nbsp;&nbsp; title={Stochastic theory of multistate diffusion in perfect and defective systems. I. Mathematical formalism},<br>
+&nbsp;&nbsp;&nbsp; author={Landman, Uzi and Shlesinger, Michael F},<br>
+&nbsp;&nbsp;&nbsp; journal={Physical Review B},<br>
+&nbsp;&nbsp;&nbsp; volume={19},<br>
+&nbsp;&nbsp;&nbsp; number={12},<br>
+&nbsp;&nbsp;&nbsp; pages={6207},<br>
+&nbsp;&nbsp;&nbsp; year={1979},<br>
+&nbsp;&nbsp;&nbsp; publisher={APS}<br>
 }
 
-@article{landman1979stochastic,
-  
-  title={Stochastic theory of multistate diffusion in perfect and defective systems. II. Case studies},
-  
-  author={Landman, Uzi and Shlesinger, Michael F},
-  
-  journal={Physical Review B},
-  
-  volume={19},
-  
-  number={12},
-  
-  pages={6220},
-  
-  year={1979},
-  
-  publisher={APS}
+@article{kenkre1981effect,<br>
+&nbsp;&nbsp;&nbsp; title={Effect of transport coherence on trapping: Quantum-yield calculations for excitons in molecular crystals},<br>
+&nbsp;&nbsp;&nbsp; author={Kenkre, VM and Wong, YM},<br>      
+&nbsp;&nbsp;&nbsp; journal={Physical Review B},<br>
+&nbsp;&nbsp;&nbsp; volume={23},<br>
+&nbsp;&nbsp;&nbsp; number={8},<br>
+&nbsp;&nbsp;&nbsp; pages={3748},<br>
+&nbsp;&nbsp;&nbsp; year={1981},<br>
+&nbsp;&nbsp;&nbsp; publisher={APS}<br>
 }
 
-@article{kenkre1981effect,
-  
-  title={Effect of transport coherence on trapping: Quantum-yield calculations for excitons in molecular crystals},
-  
-  author={Kenkre, VM and Wong, YM},
-  
-  journal={Physical Review B},
-  
-  volume={23},
-  
-  number={8},
-  
-  pages={3748},
-  
-  year={1981},
-  
-  publisher={APS}
+@article{zumofen1982energy,<br>
+&nbsp;&nbsp;&nbsp; title={Energy transfer as a random walk. II. Two-dimensional regular lattices},<br>
+&nbsp;&nbsp;&nbsp; author={Zumofen, Gert and Blumen, Alexander},<br>
+&nbsp;&nbsp;&nbsp; journal={The Journal of Chemical Physics},<br>
+&nbsp;&nbsp;&nbsp; volume={76},<br>
+&nbsp;&nbsp;&nbsp; number={7},<br>
+&nbsp;&nbsp;&nbsp; pages={3713--3731},<br>
+&nbsp;&nbsp;&nbsp; year={1982},<br>
+&nbsp;&nbsp;&nbsp; publisher={American Institute of Physics}<br>
 }
 
-@article{zumofen1982energy,
-  
-  title={Energy transfer as a random walk. II. Two-dimensional regular lattices},
-  
-  author={Zumofen, Gert and Blumen, Alexander},
-  
-  journal={The Journal of Chemical Physics},
-  
-  volume={76},
-  
-  number={7},
-  
-  pages={3713--3731},
-  
-  year={1982},
-  
-  publisher={American Institute of Physics}
+@article{ernst1988random,<br>
+&nbsp;&nbsp;&nbsp; title={Random walks with short memory},<br>&nbsp;&nbsp;&nbsp; author={Ernst, Matthieu H},<br>
+&nbsp;&nbsp;&nbsp; journal={Journal of statistical physics},<br>
+&nbsp;&nbsp;&nbsp; volume={53},<br>
+&nbsp;&nbsp;&nbsp; pages={191--201},<br>
+&nbsp;&nbsp;&nbsp; year={1988},<br>
+&nbsp;&nbsp;&nbsp; <br>
+&nbsp;&nbsp;&nbsp; publisher={Springer}<br>
 }
 
-@article{ernst1988random,
-  
-  title={Random walks with short memory},
-  
-  author={Ernst, Matthieu H},
-  
-  journal={Journal of statistical physics},
-  
-  volume={53},
-  
-  pages={191--201},
-  
-  year={1988},
-  
-  publisher={Springer}
-}
-
-@article{larralde1992number,
-  
-  title={Number of distinct sites visited by N random walkers},
-  
-  author={Larralde, Hernan and Trunfio, Paul and Havlin, Shlomo and Stanley, H Eugene and Weiss, George H},
-  
-  journal={Physical Review A},
-  
-  volume={45},
-  
-  number={10},
-  
-  pages={7128},
-  
-  year={1992},
-  
-  publisher={APS}
+@article{larralde1992number,<br>
+&nbsp;&nbsp;&nbsp; title={Number of distinct sites visited by 
+N random walkers},<br>
+&nbsp;&nbsp;&nbsp; author={Larralde, Hernan and Trunfio, Paul 
+and Havlin, Shlomo and Stanley, H Eugene and Weiss, George H},<br>
+&nbsp;&nbsp;&nbsp; journal={Physical Review A},<br>
+&nbsp;&nbsp;&nbsp; volume={45},<br>
+&nbsp;&nbsp;&nbsp; number={10},<br>
+&nbsp;&nbsp;&nbsp; pages={7128},<br>
+&nbsp;&nbsp;&nbsp; year={1992},<br>
+&nbsp;&nbsp;&nbsp; publisher={APS}<br>
 }
 
 @article{condamin2006exact,
