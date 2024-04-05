@@ -32,4 +32,4 @@ This is by no means an exhaustive list.
 + H. Larralde, First-passage probabilities and mean number of sites visited by a persistent random walker in one-and two-dimensional lattices. *Phys. Rev. E*, 102(6),  (2020). 
 + L. Giuggioli, Exact spatiotemporal dynamics of confined lattice random walks in arbitrary dimensions: A century after Smoluchowski and Pólya. *Phys. Rev. X*, 10(2), (2020). 
 + L. Giuggioli, and S. Sarvaharman, Spatio-temporal dynamics of random transmission events: from information sharing to epidemic spread. *J. Phys. A: Math. Theor.*, 55(37), (2022).
-+ S. Sarvaharman, and L. Giuggioli, Particle-environment interactions in arbitrary dimensions: A unifying analytic framework to model diffusion with inert spatial heterogeneities. *Phys. Rev. Res., 5(4) (2023).
++ S. Sarvaharman, and L. Giuggioli, Particle-environment interactions in arbitrary dimensions: A unifying analytic framework to model diffusion with inert spatial heterogeneities. *Phys. Rev. Res.*, 5(4) (2023).
