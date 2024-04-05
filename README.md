@@ -20,10 +20,10 @@ This is by no means an exhaustive list.
 
 + E. W. Montroll, and G. H. Weiss, Random walks on lattices. II, *J. Math. Phys.*, 6(2), (1965).
 
-<details open>
-<summary>Want to ruin the surprise?</summary>
+<details>
+<summary>How do I dropdown?</summary>
 <br>
-Well, you asked for it!
+This is how you dropdown.
 </details>
 
 + E. W. Montroll, Random walks on lattices. III: Calculation of first‐passage times with application to exciton trapping on photosynthetic units, *J. Math. Phys.*, 10(4), (1969).
