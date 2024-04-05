@@ -1,7 +1,7 @@
 # Awesome-Random-Walks:
 We present here a collection of work showcasing the power of Random Walk Theory. 
 
-I am always looking for more papers, especially on the more applied side, so if you know of (or have written any), please email me on daniel.marris@bristol.ac.uk!
+I am always looking for more resources, especially on the more applied side, so if you know of (or have written any), please email me on daniel.marris@bristol.ac.uk!
 
 ## Textbooks:
 Here is a list of some key textbooks that I have found to be useful.
