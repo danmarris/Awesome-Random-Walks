@@ -195,7 +195,7 @@ walks in arbitrary dimensions: A century after Smoluchowski and P{'o}lya},<br>
 + E. W. Montroll, and G. H. Weiss, Random walks on lattices. II, *J. Math. Phys.*, 6(2), (1965).
 + E. W. Montroll, Random walks on lattices. III: Calculation of first‐passage times with application to exciton trapping on photosynthetic units, *J. Math. Phys.*, 10(4), (1969).
 + U. Landman, and M. F. Shlesinger, Stochastic theory of multistate diffusion in perfect and defective systems. I. Mathematical formalism, *Phys. Rev. B*, 19(12), (1979).
-+ U. Landman, and M. F. Shlesinger, Stochastic theory of multistate diffusion in perfect and defective systems. I. Case Studies, *Phys. Rev. B*, 19(12), (1979).
++ U. Landman, and M. F. Shlesinger, Stochastic theory of multistate diffusion in perfect and defective systems. II. Case Studies, *Phys. Rev. B*, 19(12), (1979).
 + V. M. Kenkre, Y. M. Wong: Effect of Transport Coherence on Trapping: Quantum-Yield Calculations for Excitons in Molecular Crystals, *Phys. Rev. B* 23(8), (1981).
 + G. Zumofen, and A. Blumen, Energy transfer as a random walk. II. Two‐dimensional regular lattices. *J. Chem. Phys.*, 76(7), (1982).
 + M. H. Ernst, Random Walks with Short Memory, *J. Stat. Phys.* 53(191) (1988).
